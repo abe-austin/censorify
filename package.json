@@ -1,0 +1,16 @@
+{
+	"author": "Abe Austin",
+	"name": "censorify-abe_austin_test",
+	"version": "0.1.1",
+	"repository":
+	{
+		"type": "git",
+		"location":"https://github.com/abe-austin/censorify.git"
+	},
+	"description": "Censors words out of text", 
+	"main": "censortext",
+	"engines": 
+	{ 
+		"node": "*" 
+	} 
+}
